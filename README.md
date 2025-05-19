@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="30" />
   Hi Everyone!
+  MS CS St. Francis College | LTIMindtree--Grand Intern-2023 | Grad MGIT-2023
 </h1>
 
 ### 👩‍💻 I am **Maleha Naaz**  
